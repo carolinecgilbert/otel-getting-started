@@ -1,5 +1,8 @@
 # otel-getting-started
 
+## Getting Started with OpenTelemetry
+[https://opentelemetry.io/docs/languages/python/getting-started/](https://opentelemetry.io/docs/languages/python/getting-started/)
+
 ## Installation
 `python3 -m venv venv`
 
